@@ -1,2 +1,2 @@
-# useful-ppl-helpers
-Useful PPL helper and sample level collection, made by me and contributors
+# useful-ppl-utilities
+Useful PPL utility and sample level collection, made by me and contributors
