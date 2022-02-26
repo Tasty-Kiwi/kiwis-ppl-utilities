@@ -1,0 +1,6 @@
+{
+  "name": "Graph test",
+  "descriptions": ["#148b46ffDesmos#ffffffff, but in #05fbfbffPew#ffc4e3ffPew #ff0056ffLive!"],
+  "entry_point": "level.lua",
+  "has_score_leaderboard": false
+}
